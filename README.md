@@ -6,7 +6,8 @@ This is a Streamlit web application for forecasting stock prices using the Proph
 
 ## Installation
 
-To run this application, you need to have Python installed. Then, install the required packages using pip:
+To run this application, you need to have Python installed. Then, install the required packages using 
+pip install streamlit fbprophet yfinance plotly
 
 
 ## Usage
